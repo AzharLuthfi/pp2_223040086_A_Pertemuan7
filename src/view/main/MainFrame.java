@@ -5,10 +5,10 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.table.*;
 import java.util.*;
-import tugas7.Membership.src.model.*;
-import tugas7.Membership.src.view.jenismember.JenisMemberFrame;
-import tugas7.Membership.src.view.member.MemberFrame;
-import tugas7.Membership.src.dao.*;
+import model.*;
+import view.jenismember.JenisMemberFrame;
+import view.member.MemberFrame;
+import dao.*;
 
 public class MainFrame extends JFrame {
     private JenisMemberFrame jenisMemberFrame;

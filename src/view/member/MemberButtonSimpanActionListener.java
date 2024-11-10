@@ -2,8 +2,8 @@ package view.member;
 
 import java.awt.event.*;
 import java.util.UUID;
-import tugas7.Membership.src.dao.MemberDao;
-import tugas7.Membership.src.model.*;
+import dao.MemberDao;
+import model.*;
 
 public class MemberButtonSimpanActionListener implements ActionListener {
     private MemberFrame memberFrame;

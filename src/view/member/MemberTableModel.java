@@ -2,7 +2,7 @@ package view.member;
 
 import java.util.List;
 import javax.swing.table.*;
-import tugas7.Membership.src.model.Member;
+import model.Member;
 
 public class MemberTableModel extends AbstractTableModel{
     private String[] columnNames = {"Nama", "Jenis Member"};

@@ -2,8 +2,8 @@ package view.jenismember;
 
 import java.util.*;
 import javax.swing.*;
-import tugas7.Membership.src.dao.JenisMemberDao;
-import tugas7.Membership.src.model.JenisMember;
+import dao.JenisMemberDao;
+import model.JenisMember;
 
 public class JenisMemberFrame extends JFrame {
     private List<JenisMember> jenisMemberList;

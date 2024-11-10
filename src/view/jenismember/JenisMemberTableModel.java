@@ -2,7 +2,7 @@ package view.jenismember;
 
 import java.util.List;
 import javax.swing.table.*;
-import tugas7.Membership.src.model.JenisMember;
+import model.JenisMember;
 
 
 public class JenisMemberTableModel extends AbstractTableModel {

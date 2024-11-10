@@ -2,8 +2,8 @@ package view.jenismember;
 
 import java.awt.event.*;
 import java.util.UUID;
-import tugas7.Membership.src.dao.JenisMemberDao;
-import tugas7.Membership.src.model.JenisMember;
+import dao.JenisMemberDao;
+import model.JenisMember;
 
 public class JenisMemberButtonSimpanActionListener implements ActionListener{
     private JenisMemberFrame jenisMemberFrame;

@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
-import tugas7.Membership.src.db.MySqlConnection; 
-import tugas7.Membership.src.model.JenisMember;
+import db.MySqlConnection; 
+import model.JenisMember;
 
     public class JenisMemberDao {
         public int insert(JenisMember jenisMember)
